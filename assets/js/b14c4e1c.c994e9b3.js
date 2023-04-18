@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknemadev_github_io=self.webpackChunknemadev_github_io||[]).push([[2899],{7782:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/nemaDev/blog/tags/docusaurus","allTagsPath":"/nemaDev/blog/tags","count":4}')}}]);
