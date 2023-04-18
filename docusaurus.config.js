@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com/nemaDev/nemadev.gitbub.io',
+  url: 'https://github.com/nemaDev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/nemadev.gitbub.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
