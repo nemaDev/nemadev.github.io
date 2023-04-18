@@ -65,7 +65,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/nemaDev',
             label: 'GitHub',
             position: 'left',
           },
@@ -84,7 +84,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/',
+                to: '/docs/intro',
               },
             ],
           },
@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/nemadev',
+                href: 'https://github.com/nemaDev',
               },
             ],
           },
