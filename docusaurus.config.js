@@ -118,8 +118,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        appId: '2IX03Q1F30',
-        apiKey: '00e3bb21c4f66c3d7e34dcfc9755b94f',
+        appId: 'VWFHQCW1GK',
+        apiKey: '8dd76195893c9e5d6f4cad39d67e91cc',
         indexName: 'nemadev',
         contextualSearch: true,
       },
