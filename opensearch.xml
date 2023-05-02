@@ -4,8 +4,8 @@
   <ShortName>Nemadev</ShortName>
   <Description>Search Nemadev</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://github.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://github.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/opensearch.xml" />
-  <moz:SearchForm>https://github.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://nemadev.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://nemadev.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://nemadev.github.io/opensearch.xml" />
+  <moz:SearchForm>https://nemadev.github.io/</moz:SearchForm>
 </OpenSearchDescription>
