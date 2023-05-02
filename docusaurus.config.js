@@ -10,7 +10,7 @@ const config = {
   tagline: 'Fivem projects',
   favicon: 'img/favicon.ico',
 
-  url: 'https://github.com',
+  url: 'https://nemadev.github.io',
   baseUrl: '/',
   organizationName: 'nemadev', // Usually your GitHub org/user name.
   projectName: 'nemadev.github.io', // Usually your repo name.
